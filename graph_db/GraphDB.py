@@ -30,7 +30,7 @@ class GraphDB:
 
 if __name__ == '__main__':
     graph_db = GraphDB()
-    graph_db.run_cypher_file(FILES["delete_db"])
+    graph_db.run_cypher_file(FILES["create_db"])
     #graph_db.run_cypher_query()
     graph_db.close_connection()
     
