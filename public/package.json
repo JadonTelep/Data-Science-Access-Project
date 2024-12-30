@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  },
+  "name": "dsa-poject",
+  "description": "The Data Science Access Project is a collection of Data Science topics organized in an effort to provide increased accessibility to data science topics.",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JadonTelep/Data-Science-Access-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JadonTelep/Data-Science-Access-Project/issues"
+  },
+  "homepage": "https://github.com/JadonTelep/Data-Science-Access-Project#readme"
+}
